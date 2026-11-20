@@ -33,18 +33,23 @@ If you believe this is a mistake, reply with your full name, date of birth, and 
 1.  Who appears to be the sender?
    
 The sender claims to be a security team.
+
 3.  Does the email create urgency or pressure?
 
 The 24-hour deadline creates urgrncy.
+
 4.  Are there spelling or grammar mistakes?
 
 There are no obvious major spelling mistakes, but the greeting is generic.
+
 5.  Does the link match the organisation domain?
 
 The sender, displayed link, and actual destination use different domains.
+
 ### Reflection
 
 Explain why attackers use phishing emails.
+
 ### Reflection
 
 Attackers use phishing emails to trick people into revealing
@@ -70,12 +75,14 @@ Hover over the link in the email (or copy link) and inspect the URL.
 No. The displayed address uses secure-update-verification.com,
 while the actual destination uses
 secure-update.verify-account-check.example.com.
+
 2.  Are there unusual domain names?
 
 Yes. The destination combines security-related words in several
 subdomains. Its main domain is example.com. The long URL also
 contains a continue parameter pointing to another address under
 example.net.
+
 ### Reflection
 
 Explain why users should always inspect links before clicking them.
